@@ -1,0 +1,4 @@
+A:B,C,D,M,P,Q,X,Y,Z
+B:A,C,D,F,P,Q,X,Y,Z
+C:A,B,D,F,G,M,X,Y
+D:A,B,C,F,G,M,Q
